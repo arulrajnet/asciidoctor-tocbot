@@ -1,0 +1,16 @@
+:title: AsciiDoctor with pelican
+:author: Arul
+:toc: left
+:toc-title: Table of Contents
+:hardbreaks:
+:toclevels: 4
+:last-update-label!:
+:experimental:
+:icons: font
+:stem: latexmath
+:source-highlighter: highlight.js
+:nofooter:
+:linkattrs:
+:linkcss:
+
+include::content.adoc[]
