@@ -12,3 +12,4 @@ mkdir -p "${OUTPUT_DIR}"
 asciidoctor -t --failure-level WARN --trace -v -D "${OUTPUT_DIR}" toc-in-sidebar.adoc
 asciidoctor -t --failure-level WARN --trace -v -D "${OUTPUT_DIR}" toc-with-tocbot.adoc
 asciidoctor -t --failure-level WARN --trace -v -D "${OUTPUT_DIR}" toc-without-tocbot.adoc
+asciidoctor -t --failure-level WARN --trace -v -D "${OUTPUT_DIR}" index.adoc

@@ -5,6 +5,7 @@ This is an example of how to create a table of contents in an AsciiDoc document.
 
 Refer the blog post [Creating a Table of Contents in AsciiDoc](https://arulraj.net/2024/09/asciidoctor-with-floating-table-of-contents-using-tocbot/) for more information.
 
+The output hosted in GitHub pages can be found [here](https://arulrajnet.github.io/asciidoctor-tocbot/).
 
 ## To build
 
